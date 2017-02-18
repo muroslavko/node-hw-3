@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.task-text, .task-date, .task-id {
+  margin: 5px;
+  width: 150px;
+}
+
+.save-task, .delete-task {
+  margin: 5px;
+}
